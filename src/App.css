@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+.logo {
+  color: red;
+}
+
+.searchBtn {
+  border: none;
+}
+
+
